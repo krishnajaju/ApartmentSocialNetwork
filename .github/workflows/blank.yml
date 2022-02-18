@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
           curl --version
           zip --version
+          dotnet --version
